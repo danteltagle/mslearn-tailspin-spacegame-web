@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/dantebestpractices/Training_Pipeline/_apis/build/status/danteltagle.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/dantebestpractices/Training_Pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
